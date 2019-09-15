@@ -11,7 +11,7 @@ class Home extends Component {
                     <div className="intro-lead-in">Welcome To Our Studio </div>
                     <div className="intro-heading text-uppercase">It's Nice To Meet You</div>
                         <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" 
-                            href= "#services">Services</a>
+                            to= "#services">Services</a>
                     </div>
                 </div>
             </header>
